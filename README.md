@@ -19,6 +19,7 @@ pkg install python3
 git clone https://github.com/2hackertool/hacker-dos.git
 
 cd hacker-dos
+
 python3 dos.py
 
 #it,s work on kali too
