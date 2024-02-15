@@ -23,6 +23,7 @@ cd hacker-dos
 python3 dos.py
 
 #it,s work on kali too
+
 kali linux 
 
 sudo apt update
